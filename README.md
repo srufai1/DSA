@@ -1,4 +1,1 @@
-/*This repo contains solutions to all Questions I will be solving on Data Structures and Algorithm */
-
-1. Day 1: Started Learning git and gitHub
-Resolving merge conflict in git
+Learning Web development using html, css, python and Javascript
