@@ -1,1 +1,1 @@
-Learning Web development using html, css, python and Javascript
+Learning Data structures and algorithms
